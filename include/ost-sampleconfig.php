@@ -39,10 +39,10 @@ define('ADMIN_EMAIL','%ADMIN-EMAIL');
 # ---------------------------------------------------
 # Mysql Login info
 define('DBTYPE','mysql');
-define('DBHOST','%CONFIG-DBHOST');
-define('DBNAME','%CONFIG-DBNAME');
-define('DBUSER','%CONFIG-DBUSER');
-define('DBPASS','%CONFIG-DBPASS');
+define('DBHOST','localhost');
+define('DBNAME','osticket_clone');
+define('DBUSER','root');
+define('DBPASS','K3nsyby1');
 
 # Table prefix
 define('TABLE_PREFIX','%CONFIG-PREFIX');
